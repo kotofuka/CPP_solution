@@ -1,0 +1,4 @@
+﻿D:\files\games\visual studio\main\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (EVM.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Hello_world.cpp
+D:\files\games\visual studio\project\EVM_Solusion\EVM\Hello_world.cpp(7,16): warning C4309: инициализация: усечение константного значения
+  EVM.vcxproj -> D:\files\games\visual studio\project\EVM_Solusion\x64\Debug\hello_world.exe

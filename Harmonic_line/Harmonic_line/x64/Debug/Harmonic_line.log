@@ -1,0 +1,4 @@
+﻿  Harmonic_line.cpp
+D:\files\games\visual studio\project\Harmonic_line\Harmonic_line\Harmonic_line.cpp(32,42): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\files\games\visual studio\project\Harmonic_line\Harmonic_line\Harmonic_line.cpp(32,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Harmonic_line.vcxproj -> D:\files\games\visual studio\project\Harmonic_line\x64\Debug\Harmonic_line.exe

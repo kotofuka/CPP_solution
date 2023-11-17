@@ -1,0 +1,3 @@
+﻿  handbook_1.cpp
+D:\files\games\visual studio\project\handbook_1\handbook_1\handbook_1.cpp(39,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  handbook_1.vcxproj -> D:\files\games\visual studio\project\handbook_1\x64\Debug\handbook_1.exe
